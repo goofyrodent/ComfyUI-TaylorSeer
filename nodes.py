@@ -431,7 +431,7 @@ NODE_CLASS_MAPPINGS = {
     "HidreamBlockSwap": HidreamBlockSwap,
     "WanvideoBlockSwap": WanvideoBlockSwap,
     "QwenimageBlockSwap": QwenimageBlockSwap,
-    "TaylorSeerLite": TaylorSeerLite
+    "TaylorSeerLite-x": TaylorSeerLite
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
@@ -440,5 +440,5 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "HidreamBlockSwap": "HidreamBlockSwap",
     "WanvideoBlockSwap": "WanvideoBlockSwap",
     "QwenimageBlockSwap": "QwenimageBlockSwap",
-    "TaylorSeerLite": "TaylorSeerLite"
+    "TaylorSeerLite-x": "TaylorSeerLite-x"
 }
