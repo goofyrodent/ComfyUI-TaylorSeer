@@ -299,6 +299,7 @@ def taylorseer_lite_flux_forward(
     y: Tensor,
     guidance: Tensor = None,
     control = None,
+    timestep_zero_index = None,
     transformer_options={},
     attn_mask: Tensor = None,
 ) -> Tensor:
