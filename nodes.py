@@ -426,7 +426,7 @@ class TaylorSeerLite:
         return (new_model,)
 
 NODE_CLASS_MAPPINGS = {
-    "TaylorSeer": TaylorSeer,
+    "TaylorSeer-x": TaylorSeer,
     "FluxBlockSwap": FluxBlockSwap,
     "HidreamBlockSwap": HidreamBlockSwap,
     "WanvideoBlockSwap": WanvideoBlockSwap,
@@ -435,7 +435,7 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "TaylorSeer": "TaylorSeer",
+    "TaylorSeer-x": "TaylorSeer-x",
     "FluxBlockSwap": "FluxBlockSwap",
     "HidreamBlockSwap": "HidreamBlockSwap",
     "WanvideoBlockSwap": "WanvideoBlockSwap",
